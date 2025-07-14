@@ -593,3 +593,4 @@ else:
 
 st.markdown("---")
 st.caption("Advanced Step Analytics App | Your Personal Data Explorer")
+st.caption("Credits: Adhnan E - Flutter developer")
